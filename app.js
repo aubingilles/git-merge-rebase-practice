@@ -1,1 +1,1 @@
-console.log('app running in ticket-22.1');
+console.log('app running in ticket-22.2');
